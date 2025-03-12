@@ -21,5 +21,4 @@ else if(idade >= 18 && idade < 60){
 else {
     printf("voce é idoso");
 }
-
 }
